@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-next",
+  "version": "1.0.0",
+  "description": "Quickly and easily bootstrap a Next.js project.",
+  "main": "index.js",
+  "repository": "https://github.com/arch-lord/bootstrap-next",
+  "author": "Felix Mattick <felix.mattick@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "execa": "^1.0.0",
+    "node-fetch": "^2.3.0",
+    "ora": "^3.1.0",
+    "promise-fs": "^2.0.1",
+    "prompts": "^2.0.2",
+    "write-pkg": "^3.2.0"
+  }
+}
