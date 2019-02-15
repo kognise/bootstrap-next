@@ -6,6 +6,9 @@
   "bin": {
     "bootstrap-next": "./index.js"
   },
+  "scripts": {
+    "publish": "np"
+  },
   "repository": "https://github.com/arch-lord/bootstrap-next",
   "author": "Felix Mattick <felix.mattick@gmail.com>",
   "license": "MIT",
