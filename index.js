@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const prompts = require('prompts')
 const ora = require('ora')
 const execa = require('execa')
