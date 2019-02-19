@@ -70,6 +70,7 @@ prompts([
       },
       rules: {
         'react/react-in-jsx-scope': 'off',
+        'react/display-name': 'off',
         semi: [
           'error',
           'never'
@@ -117,11 +118,11 @@ export default class extends Component {
       fs.writeFile('README.md', `
 # ${name}
 
-${description}
+${description} Bootstrapped with \`bootstrap-next\`.
 
 ## Development
 
-To run this during development, just run \`yarn dev\`. To lint you code and attempt to fix some problems, run \`yarn lint:fix\`. If you just want to lint it, only run \`yarn lint\`.
+To run this during development, just run \`yarn dev\`. To lint your code and attempt to fix some problems, run \`yarn lint:fix\`. If you just want to lint it, only run \`yarn lint\`.
 
 ## Production
 
