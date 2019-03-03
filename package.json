@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-next",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly and easily bootstrap a Next.js project.",
   "main": "index.js",
   "bin": {
