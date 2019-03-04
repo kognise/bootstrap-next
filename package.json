@@ -24,5 +24,17 @@
   },
   "devDependencies": {
     "np": "^4.0.2"
-  }
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrapper",
+    "next",
+    "nextjs",
+    "react",
+    "reactjs",
+    "cli",
+    "easy",
+    "eslint",
+    "linter"
+  ]
 }
