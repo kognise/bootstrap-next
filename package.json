@@ -9,8 +9,8 @@
   "scripts": {
     "publish": "np"
   },
-  "repository": "https://github.com/arch-lord/bootstrap-next",
-  "author": "Felix Mattick <felix.mattick@gmail.com>",
+  "repository": "https://github.com/kognise/bootstrap-next",
+  "author": "Kognise",
   "license": "MIT",
   "private": false,
   "dependencies": {
