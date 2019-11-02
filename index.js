@@ -114,7 +114,7 @@ export default class extends Component {
       }),
       fs.mkdir('lib'),
       fs.mkdir('components'),
-      fs.mkdir('static'),
+      fs.mkdir('public'),
       fs.writeFile('README.md', `
 # ${name}
 
