@@ -1,3 +1,7 @@
+> 🚩 **This project is archived!** 🚩
+> 
+> *You should use https://github.com/kognise/next-barebones-template instead.*
+
 # bootstrap-next
 
 Quickly and easily bootstrap a Next.js project.
