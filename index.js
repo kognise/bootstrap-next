@@ -94,7 +94,7 @@ prompts([
   }).then(() => {
     spinner.succeed()
     spinner = ora('Install development packages').start()
-    return execa('yarn', [ 'add', '--dev', 'eslint', 'babel-eslint', 'babel', 'eslint-plugin-react' ])
+    return execa('yarn', [ 'add', '--dev', 'eslint', 'babel-eslint', 'babel', 'eslint-plugin-react', 'typescript', '@types/react', '@types/node'])
   }).then(() => {
     spinner.succeed()
     spinner = ora('Create files and directories').start()
